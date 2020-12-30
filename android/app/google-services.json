@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1073339044491",
+    "firebase_url": "https://banyan-app-279e9.firebaseio.com",
+    "project_id": "banyan-app-279e9",
+    "storage_bucket": "banyan-app-279e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073339044491:android:0427fb2fe4549c92fbfa8e",
+        "android_client_info": {
+          "package_name": "com.muhammadali.buddiesgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073339044491-mjccvd0v6iq8lcro91vvs3cn2qhh4dva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muhammadali.buddiesgram",
+            "certificate_hash": "9b722e3a32d3f27ee263d694ab1714c89e6536e5"
+          }
+        },
+        {
+          "client_id": "1073339044491-h4ie05rntl60leh2uufb0j0m3rbncvg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-lF9IpT85fQ24jcP38yFxZXlPDjRtnLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073339044491-h4ie05rntl60leh2uufb0j0m3rbncvg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
